@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Unique Slug Checker\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: assets/usc-script.js
+msgid "Checking..."
+msgstr "در حال بررسی..."
+
+msgid "✅ This slug is unique"
+msgstr "✅ این نامک یکتا است"
+
+msgid "❌ This slug is already used in:"
+msgstr "❌ این نامک قبلاً استفاده شده است در:"
+
+msgid "Invalid request."
+msgstr "درخواست معتبر نیست."
+
+msgid "Slug Status"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Unique"
+msgstr ""
+
+msgid "❗ Invalid response"
+msgstr ""

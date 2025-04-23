@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "Checking..."
+msgstr "جاري التحقق..."
+
+msgid "✅ This slug is unique"
+msgstr "✅ الرابط الدائم فريد"
+
+msgid "❌ This slug is already used in:"
+msgstr "❌ هذا الرابط الدائم مستخدم في:"
+
+msgid "Invalid request."
+msgstr "طلب غير صالح."
+
+msgid "Slug Status"
+msgstr "حالة السـلَـغ"
+
+msgid "Duplicate"
+msgstr "مكرر"
+
+msgid "Unique"
+msgstr "فريد"

@@ -1,0 +1,13 @@
+.usc-feedback {
+    margin-top: 5px;
+    font-size: 13px;
+    line-height: 1.4em;
+}
+
+.usc-success {
+    color: green;
+}
+
+.usc-warning {
+    color: darkorange;
+}
